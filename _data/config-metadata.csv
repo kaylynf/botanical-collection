@@ -2,14 +2,14 @@ field,display_name,browse_link,external_link
 title,Title,
 date,Date Created,
 description,Description,
-isthereabutterfly, Is there a butterfly?
-subject,Subjects,true
-season, Season
-flowercolor, Flower Color
-timegeneral, Time of day taken
-iphonemodel, iPhone Model Used
+isthereabutterfly, Is there a butterfly?,
+subject,Subjects,true,
+season, Season,
+flowercolor, Flower Color,
+timegeneral, Time of day taken,
+iphonemodel, iPhone Model Used,
 identifier,Source Identifier,,
 format,Format,
-locationcredit, Location Credit
+locationcredit, Location Credit,
 rights,Rights,
 rightsstatement,Rights Statement,,true
