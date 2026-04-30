@@ -5,8 +5,8 @@ description,Description,
 isthereabutterfly,Is there a butterfly,
 subject,Subjects,true,
 season,Season,
-flowercolor,Flower Color,
-timegeneral,Time of day taken,
+flowercolor,Flower Color,true
+timegeneral,Time of day taken,true
 iphonemodel,iPhone Model Used,
 identifier,Source Identifier,,
 format,Format,
