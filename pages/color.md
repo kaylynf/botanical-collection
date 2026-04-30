@@ -2,7 +2,7 @@
 title: color
 layout: cloud
 permalink: /color.html
-cloud-field: flowercolor
+cloud-fields: flowercolor
 ---
 
 ## Browse by the flower's color
