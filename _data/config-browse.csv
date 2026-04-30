@@ -3,3 +3,7 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
+season,Season,true,,
+flowercolor, Flower Color,,Color
+timegeneral
+isthereabutterfly
