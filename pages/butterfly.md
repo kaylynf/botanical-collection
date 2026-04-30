@@ -5,4 +5,5 @@ permalink: /butterfly.html
 cloud-fields: isthereabutterfly
 ---
 
-## Filter by whether or not the photograph shows a butterfly
+## Browse by content
+Filter by whether or not the photograph shows a butterfly
