@@ -2,8 +2,7 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
 subject,,true
-location,,true
-season,Season,true,,
-flowercolor, Flower Color,,Color
-timegeneral
-isthereabutterfly
+season,,true,true,Season
+flowercolor,,true,,true,Flower Color
+timegeneral,,true,true,Time of Day
+isthereabutterfly,,true,true,Butterfly
