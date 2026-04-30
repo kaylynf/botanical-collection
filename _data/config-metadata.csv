@@ -2,9 +2,9 @@ field,display_name,browse_link,external_link
 title,Title,
 date,Date Created,
 description,Description,
-isthereabutterfly,Is there a butterfly,
+isthereabutterfly,Is there a butterfly,true
 subject,Subjects,true,
-season,Season,
+season,Season,true
 flowercolor,Flower Color,true
 timegeneral,Time of day taken,true
 iphonemodel,iPhone Model Used,
