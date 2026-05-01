@@ -6,4 +6,4 @@ cloud-fields: isthereabutterfly
 ---
 
 ## Browse by content
-Filter by whether or not the photograph shows a butterfly
+Use this feature to filter by whether or not the photograph shows a butterfly. Word size is determined by frequency.
