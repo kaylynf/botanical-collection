@@ -2,7 +2,7 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
 subject,,true
-season,,true,true,
-flowercolor,,true,true,
-timegeneral,,true,true,
+season,Season,true,true,
+flowercolor,Flower Color,true,true,
+timegeneral,Time of Day,true,true,
 isthereabutterfly,,true,true,
