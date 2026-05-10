@@ -10,6 +10,8 @@ timegeneral,Time of day taken,true
 iphonemodel,iPhone Model Used,
 identifier,Source Identifier,,
 format,Format,
+filename, File name
+filesize, File size
 locationcredit,Location Credit,
 rights,Rights,
 rightsstatement,Rights Statement,,true
